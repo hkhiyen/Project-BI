@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="QUANG-KHAI_HOKHAIYEN.DW"
+  DTS:DTSID="{2AF57120-69C2-44E6-9AD1-084EECD1045A}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=QUANG-KHAI\HOKHAIYEN;Initial Catalog=DW;Provider=SQLNCLI11.1;Integrated Security=SSPI;Auto Translate=False;Application Name=SSIS-SSIS-{2AF57120-69C2-44E6-9AD1-084EECD1045A}QUANG-KHAI\HOKHAIYEN.DW;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
